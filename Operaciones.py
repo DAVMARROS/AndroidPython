@@ -1,6 +1,6 @@
 """
 Nombre: Operaciones.py
-Objetivo:  
+Objetivo: muestra operaciones selectivas, repetitivas y aritmeticas
 Autor:
 Fecha: 07/11/2019
 """
